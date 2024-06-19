@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "webAppName": {
-      "value": "Contact-Database-Application"
+      "value": "Contact-Database-Application-Miyazaki"
     },
     "appServicePlanName": {
-      "value": "Contact-Database-Application"
+      "value": "Contact-Database-Application-Miyazaki"
     },
     "location": {
-      "value": "Japan East"
+      "value": "japaneast"
     }
   }
 }
